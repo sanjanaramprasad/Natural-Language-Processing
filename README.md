@@ -1,0 +1,2 @@
+# Natural-Language-Processing
+Built a Natural Language based SalesPerson Bot for Mobile Systems.Performed Named Entity Recognition on input sentences, Relationship Extraction using Machine Learning on obtained named entities and used Natural Language Generation (template / discourse structure based) to generate responses for the user queries. The System built was reactive (answer the queries raised by customer)
